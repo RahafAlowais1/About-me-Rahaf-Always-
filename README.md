@@ -1,6 +1,6 @@
 # About-me-Rahaf-Alowais 
 
- 👋 Hi, I'm [Your Name]!
+ 👋 Hi, I'm Rahaf Alowais !
 
  🔍 I am passionate about Data Analysis, Data Science, and Artificial Intelligence. I love uncovering insights from data and building predictive models.
 
@@ -8,7 +8,6 @@
 
  🌟 Recent Projects:
 - Data Analysis of San Francisco City Salary Data
-- [Project Name]
+- 
 
-📫 Feel free to reach out via [Your Email] or connect with me on [LinkedIn Profile Link].
-```
+📫 Feel free to reach out via Rahafalowais1@gmail.com or connect with me on www.linkedin.com/in/rahaf-alowais-8b5728296 .
